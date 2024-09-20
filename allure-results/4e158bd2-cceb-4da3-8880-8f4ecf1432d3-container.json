@@ -1,0 +1,1 @@
+{"uuid":"4e158bd2-cceb-4da3-8880-8f4ecf1432d3","name":"altibbi.base.BaseTest.setup","children":["76f665b0-a6fe-4b38-88d6-06c2296fdabd"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1726741946632,"stop":1726741949940}],"afters":[],"start":1726741946630,"stop":1726741949940}
